@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navbar-collapse{
+  flex-grow: 0;
+  margin-right: 30px;
+}
+.container{
+  padding: 12px 30px;
+}
